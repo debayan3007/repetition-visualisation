@@ -2,9 +2,10 @@
   "name": "repetition-visualisation",
   "version": "1.0.0",
   "description": "It provides visualisation of repetitiveness of words for a piece of literature.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,10 @@
   "devDependencies": {
     "webpack": "^4.29.0",
     "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "d3": "^5.7.0",
+    "jsdom": "^13.2.0",
+    "lodash": "^4.17.11"
   }
 }
