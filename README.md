@@ -1,0 +1,1 @@
+It provides visualisation of repetitiveness of words for a piece of literature.

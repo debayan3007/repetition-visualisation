@@ -1,0 +1,25 @@
+{
+  "name": "repetition-visualisation",
+  "version": "1.0.0",
+  "description": "It provides visualisation of repetitiveness of words for a piece of literature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debayan3007/repetition-visualisation.git"
+  },
+  "keywords": [
+    "d3",
+    "visualisation",
+    "lyrics",
+    "repetition"
+  ],
+  "author": "Debayan Singha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debayan3007/repetition-visualisation/issues"
+  },
+  "homepage": "https://github.com/debayan3007/repetition-visualisation#readme"
+}
